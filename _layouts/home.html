@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+
+  {% include navbar.html %}
+
+  <!-- Page Header -->
+  {% if page.background %}
+  <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+    {% else %}
+    <header class="masthead">
+      {% endif %}
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="page-heading">
+              <h1 class="header-text pt-5 pb-5">Under Construction</h1>
+              {% if site.description %}
+              <!-- <span class="subheading">Got questions about Faith, Life and God?</span> -->
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          {{ content }}          
+        </div>
+      </div>
+    </div>
+
+  {% include footer.html %}
+
+  {% include scripts.html %}
+
+  {% include cookie_consent.html %}
+
+</body>
+
+</html>
