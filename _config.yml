@@ -20,6 +20,8 @@
 
 title: Kadosh
 email: mail@kadosh.cc
+instagram_username: kadoshhamburg
+youtube_channel: UCcbO8CuIzSQ9LkVAISLmRPw
 description: >- # Is there more to life than thus?
   Under Construction
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -35,7 +37,7 @@ markdown: kramdown
 page_list:
   - page:
       name: Home
-      url: /index
+      url: /index2
   - page:
       name: About
       url: /about
