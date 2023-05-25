@@ -6,7 +6,7 @@ background: '/images/banner.jpg'
   <div class="mx-auto" style="width: 300px;text-align: center">
   <ul class="list-unstyled">
     <li><a href="about">About Us</a></li>
-    <li><a href="about">Our Ministries</a></li>
+    <li><a href="ministries">Ministries</a></li>
     <li><a href="videos">Videos</a></li>
   </ul>
   </div>
