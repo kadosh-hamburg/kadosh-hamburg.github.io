@@ -29,7 +29,7 @@ In 2005, Aires fell gravely ill and was on his deathbed. It was a terrifying tim
   <blockquote class="blockquote black mt-4">
     <h5>Aires </h5>
     <p class="mb-0 mt-0">      
-      A Catholic man, husband and devout man of GOd. He is an exemplary musician and a gifted sound engineer. He leads the band with his immense love for God and desire to raise more people of Faith.
+      A Catholic man, husband and devout man of God. He is an exemplary musician and a gifted sound engineer. He leads the band with his immense love for God and desire to raise more people of Faith.
     </p>
   </blockquote>
   <blockquote class="blockquote black mt-4">
