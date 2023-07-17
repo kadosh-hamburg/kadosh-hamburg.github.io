@@ -1,5 +1,7 @@
 ---
 layout: home
+lang: en
+permalink: /
 background: '/images/banner.jpg'
 ---
 <div class="container mt-4">

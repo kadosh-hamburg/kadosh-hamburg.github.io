@@ -1,5 +1,7 @@
 ---
 layout: page
+lang: en
+permalink: videos/
 background: '/images/banner.jpg'
 title: Videos
 ---

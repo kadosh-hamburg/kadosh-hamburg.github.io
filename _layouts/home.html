@@ -17,17 +17,27 @@
       <div class="overlay"></div>
       <div class="header-image">
         <div class="mx-auto mt-10" style="width: 300px; margin-top: 80px;text-align:center">
-          <img src="images/kadosh-logo.png" class="img-fluid"/>
+          <img src="/images/kadosh-logo.png" class="img-fluid"/>
         </div>
       </div>
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto pt-10 pb-10">
             <div class="page-heading">              
-              <h1 class="header-text pt-5 pb-10">Make disciples of all nations...</h1>
-              {% if site.description %}
-              <span class="subheading">A group of friends, different origins, one destination - <i>Kadosh</i></span>
-              {% endif %}
+              <h1 class="header-text pt-5 pb-10">
+                  {% if page.lang == "en" %}                  
+                      {{ site.header.en }}
+                  {% elsif page.lang == "de" %}
+                      {{ site.header.de }}
+                  {% endif %}
+              </h1>
+              <span class="subheading">
+                  {% if page.lang == "en" %}                  
+                      {{ site.home_description.en }}
+                  {% elsif page.lang == "de" %}
+                      {{ site.home_description.de }}
+                  {% endif %} - 
+              <i>Kadosh</i></span>
             </div>
           </div>
         </div>

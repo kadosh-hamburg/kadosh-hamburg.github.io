@@ -1,5 +1,7 @@
 ---
 layout: page
+lang: en
+permalink: ministries/
 background: '/images/banner.jpg'
 title: MINISTRIES
 ---

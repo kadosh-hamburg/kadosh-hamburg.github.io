@@ -1,5 +1,7 @@
 ---
 layout: page
+lang: en
+permalink: about/
 background: '/images/banner.jpg'
 title: ABOUT US
 ---
@@ -18,14 +20,14 @@ title: ABOUT US
 <br />
 <h4>Founders</h4>
 <h5>Aires & Sandra</h5>
-<img src="images/aires_sandra.jpg" class="img-fluid" />
+<img src="/images/aires_sandra.jpg" class="img-fluid" />
 <p class="mt-0">
 <i>Married since 1998</i><br />
 In 2005, Aires fell gravely ill and was on his deathbed. It was a terrifying time, and they found themselves at a crossroad between faith and paralyzing fear. They chose to have faith and surrendered wholeheartedly to God. God was merciful and Aires was miraculously healed. This experience left a profound impact on them, and they became even more convicted in their faith. As a result, they began to feel a need for Christ - as well as a call to bring Him to others and re-evangelize within the catholic church. They started by using that which brought them together: their love for music and started praise & worship sessions.In the course of time, together with like-minded individuals who they met along their journey, they formed a worship band called Kadosh. Their mission: To bring the love of Christ to others through music. They began performing at local churches and events, sharing their faith through song and inspiring others to join . Their journey has been one of faith, perseverance, and joy, and  are grateful for every opportunity to bring Christ to others.
 </p>
 
 <h4>Meet the team</h4>
-<img src="images/team.jpg" class="img-fluid" />
+<img src="/images/team.jpg" class="img-fluid" />
   <blockquote class="blockquote black mt-4">
     <h5>Aires </h5>
     <p class="mb-0 mt-0">      

@@ -29,15 +29,23 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: #UA-174490331-2
 # Build settings
 plugins:
-  - jekyll-feed
+  - jekyll-polyglot
+  
+# Permalinks
+permalink: pretty
+  
+languages: ["en", "de"]
+default_lang: "en"
+exclude_from_localization: ["assets","images", "unused", "public"]
+parallel_localization: false
 
 markdown: kramdown
 
 #List of Pages with details
-page_list:
+page_list_en:
   - page:
       name: Home
-      url: /index2
+      url: /index
   - page:
       name: About
       url: /about
@@ -46,7 +54,29 @@ page_list:
       url: /ministries
   - page:
       name: Videos
-      url: /videos      
+      url: /videos
+
+page_list_de:
+  - page:
+      name: Home
+      url: /index
+  - page:
+      name: Uber uns
+      url: /uber-uns
+  - page:
+      name: Unsere Angebot
+      url: /unsere-angebot
+  - page:
+      name: Videos
+      url: /videos
+
+header:
+    en: Make disciples of all nations...
+    de: Macht alle Völker zu Jüngern...
+    
+home_description:
+    en: A group of friends, different origins, one destination
+    de: Eine Gruppe von Freunden, unterschiedliche Herkunft, ein Ziel    
 
 sass:
   sass_dir: _sass
