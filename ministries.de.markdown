@@ -1,5 +1,6 @@
 ---
 layout: page
+type: ministries
 lang: de
 permalink: unsere-angebot/
 background: '/images/banner.jpg'

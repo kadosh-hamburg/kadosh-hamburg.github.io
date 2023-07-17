@@ -1,5 +1,6 @@
 ---
 layout: home
+type: index
 lang: en
 permalink: /
 background: '/images/banner.jpg'

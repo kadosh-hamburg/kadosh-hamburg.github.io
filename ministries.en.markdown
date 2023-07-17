@@ -1,6 +1,7 @@
 ---
 layout: page
 lang: en
+type: ministries
 permalink: ministries/
 background: '/images/banner.jpg'
 title: MINISTRIES
