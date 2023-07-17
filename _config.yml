@@ -45,7 +45,7 @@ markdown: kramdown
 page_list_en:
   - page:
       name: Home
-      url: /index
+      url: /
   - page:
       name: About
       url: /about
@@ -59,7 +59,7 @@ page_list_en:
 page_list_de:
   - page:
       name: Home
-      url: /index
+      url: /
   - page:
       name: Uber uns
       url: /uber-uns
