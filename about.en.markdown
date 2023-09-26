@@ -8,7 +8,7 @@ title: ABOUT US
 <div class="container mt-4">
   <h4>Who we are?</h4>
   <p class="mt-0">
-    Welcome to Kadosh. We are a dedicated Catholic spiritual community serving within the Archdiocese of Hamburg. At Kadosh, our deep-rooted passion for Jesus, his Church, and his Word, combined with our profound love for music, has shaped our mission and defines who we are. We find immense fulfillment and gratitude in every opportunity we have to share the message of Christ with others and strive to make a positive impact in the lives of those we encounter. Our journey is one characterized by faith, perseverance, and joy. Whether you are seeking a place to deepen your faith, connect with fellow believers, or simply find solace and inspiration, we are here to welcome you with open arms. Within our community, you will discover a warm and inclusive atmosphere, where individuals from all walks of life come together to worship, learn, and grow spiritually. We invite you to explore our website and learn more about Kadosh and the various ways you can engage with our community.
+    Welcome to Kadosh. We are a dedicated Catholic spiritual community serving within the Archdiocese of Hamburg. At Kadosh we combined our deep-rooted passion for Jesus, his Church, and his Word with our profound love for music. We find immense fulfillment and gratitude in every opportunity we have to share the message of Christ with others and strive to make a positive impact in the lives of those we encounter. Our journey is one of faith, perseverance, and joy. Whether you are seeking a place to deepen your faith, connect with fellow believers, or simply find solace and inspiration, we are here to welcome you with open arms. Within our community, individuals from all walks of life come together to worship, learn, and grow spiritually. We invite you to explore our website and learn more about us.
   </p>
   
 <h4>Our Vision and Mission</h4>
@@ -31,38 +31,42 @@ In 2005, Aires fell gravely ill and was on his deathbed. It was a terrifying tim
   <blockquote class="blockquote black mt-4">
     <h5>Aires </h5>
     <p class="mb-0 mt-0">      
-      A Catholic man, husband and devout man of God. He is an exemplary musician and a gifted sound engineer. He leads the band with his immense love for God and desire to raise more people of Faith.
+      Aires is the husband of Sandra and a devout man of God. He is an exemplary musician and a gifted sound engineer. 
+      He leads the band with his immense love for God and desire ti raise more people of faith.
     </p>
   </blockquote>
   <blockquote class="blockquote black mt-4">
     <h5>Dibin </h5>
     <p class="mb-0 mt-0">      
-      Dibin is the drummer in our band. He started off with playing the cajon, and by listening to the silent voice in his heart, slowly learned how to play the drums and found his niche there, as that tuned out to be the language he uses to communicate with God.
-      Dibin lives currently in Dresden and travels across to Hamburg whenever there is an option to worship God through his beats.
+      Dibin is one of our drummers. He started off playing the cajon and discovered his passion for playing drums. 
+      Dibin currently lives in Dresden with his wife, Teena and travels across to Hamburg whenever there is an opportunity to worship God through his beats.
     </p>
   </blockquote>
   <blockquote class="blockquote black mt-4">
     <h5>Leon </h5>
     <p class="mb-0 mt-0">
-      Leon, son of the father our God, father of two sons and husband of a lovely wife, constantly searching and learning more about God. He plays the electric guitar for Kadosh. God has transformed him a lot inwardly, and blessed him abundantly in his life! But he still looks forever young externally. He's recently become an expert at dad jokes since he became a Father.
+      Leon, is our guitar player, husband of Angeline and father of Gabriel and Markus. From heavy metal guitarist to awesome worship. His passion for God, family and cool riffs are hard to miss.
     </p>
   </blockquote>
   <blockquote class="blockquote black mt-4">
     <h5>Sandra </h5>
     <p class="mb-0 mt-0">      
-      A Goan by birth and at heart, and currently resident of Hamburg, Germany. Self-declared mediator of the group (believe it or not, even as a faith group, there are still tons of squabbles amongst us!!) 
+      Sandra, is the wife of Aires and the voice that is hard to overhear both as the main singer, and the mediator of the group (believe it or not, even as a faith group, there are still squabbles among us!!). 
+      She is the backbone of the group.
     </p>
   </blockquote>
   <blockquote class="blockquote black mt-4">
     <h5>Savio </h5>
     <p class="mb-0 mt-0">
-      Savio currently plays bass for Kadosh having joined in 2021, right after moving to Hamburg. He wants to inspire people to experience God's grace and love through the depth of worship and the power of music. He also writes and produces his own music when he's not repairing things or scrolling through Ebay. Being a witness to how God has worked in their lives, he is excited about what the future holds in store.
+      Savio, husband of Alicia and father of Joseph is our bassist. 
+      Having experienced God´s grace in his life, he is excited about what the future holds in store as he continues to worship the Lord.
     </p>
   </blockquote>
   <blockquote class="blockquote black mt-4">
     <h5>Shando </h5>
     <p class="mb-0 mt-0">
-      Shando has been part since the start of Kadosh. He plays the keyboard and sings for the band. He loves to serve the Lord through music and is amazed at the beautiful ways God uses worship and music to touch their own lives and lives of the listeners. He lives in Hamburg with his wife and son.
+      Shando, one of the first musicians to join, plays the keyboard. He is the husband of Amrita and father to Luca. 
+      He is blessed with a rich voice and a worshipping heart.
     </p>
   </blockquote>
 

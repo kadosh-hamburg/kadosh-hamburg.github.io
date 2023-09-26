@@ -8,8 +8,7 @@ background: '/images/banner.jpg'
 <div class="container mt-4">
 <h4>Über uns</h4>
   <p class="mt-0">
-    Willkommen bei Kadosh. Wir sind eine katholische Gemeinschaft im Erzbistum Hamburg. 
-    Uns definiert unsere Leidenschaft für Jesus, seine Kirche und sein Wort in Kombination mit unserer Liebe zur Musik. Wir finden die Erfüllung darin die Botschaft Christi anderen zu erzählen.  In unserer Gemeinschaft finden Sie eine herzliche und integrative Atmosphäre, in der Menschen aus allen Gesellschaftsschichten zusammenkommen, um gemeinsam Gottesdienst zu feiern, zu lernen und geistlich zu wachsen. Wir laden Sie ein, unsere Website zu erkunden und mehr über Kadosh und die verschiedenen Möglichkeiten zu erfahren, wie Sie sich in unserer Gemeinschaft engagieren können.
+   Willkommen bei Kadosh. Wir sind eine engagierte katholische geistliche Gemeinschaft im Erzbistum Hamburg. Bei Kadosh haben wir unsere tief verwurzelte Leidenschaft für Jesus, seine Kirche und sein Wort mit unserer tiefen Liebe zur Musik verbunden. Wir finden große Erfüllung und Dankbarkeit in jeder Gelegenheit, die wir haben, um die Botschaft Christi mit anderen zu teilen und streben danach, einen positiven Einfluss auf das Leben derer zu haben, denen wir begegnen. Unser Weg ist ein Weg des Glaubens, der Beharrlichkeit und der Freude. Ganz gleich, ob Sie einen Ort suchen, an dem Sie Ihren Glauben vertiefen, sich mit anderen Gläubigen austauschen oder einfach Trost und Inspiration finden können, wir heißen Sie mit offenen Armen willkommen. In unserer Gemeinschaft kommen Menschen aus allen Gesellschaftsschichten zusammen, um gemeinsam Gottesdienst zu feiern, zu lernen und geistlich zu wachsen. Wir laden Sie ein, unsere Website zu erkunden und mehr über uns zu erfahren.
   </p>
 
   <div class="mx-auto" style="width: 300px;text-align: center">
