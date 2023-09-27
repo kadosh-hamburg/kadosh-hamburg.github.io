@@ -32,7 +32,7 @@ In 2005, Aires fell gravely ill and was on his deathbed. It was a terrifying tim
     <h5>Aires </h5>
     <p class="mb-0 mt-0">      
       Aires is the husband of Sandra and a devout man of God. He is an exemplary musician and a gifted sound engineer. 
-      He leads the band with his immense love for God and desire ti raise more people of faith.
+      He leads the band with his immense love for God and desire to raise more people of faith.
     </p>
   </blockquote>
   <blockquote class="blockquote black mt-4">
